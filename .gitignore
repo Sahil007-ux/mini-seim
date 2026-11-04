@@ -6,3 +6,7 @@
    .vscode/
    .idea/
    .DS_Store
+   .db
+   .sqllite3
+   .pytest_cache/
+   
